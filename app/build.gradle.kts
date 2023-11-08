@@ -5,7 +5,11 @@ plugins {
 
 android {
     namespace = "com.miu.walmartui"
-    compileSdk = 33
+    compileSdk = 34
+
+    buildFeatures {
+        viewBinding = true
+    }
 
     defaultConfig {
         applicationId = "com.miu.walmartui"
