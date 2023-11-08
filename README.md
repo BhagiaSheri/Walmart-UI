@@ -1,7 +1,4 @@
-![WhatsApp Image 2023-11-08 at 1 59 03 AM (3)](https://github.com/BhagiaSheri/Walmart-UI/assets/38161609/8985c467-907c-4a31-92eb-b4536b4f9079)# Walmart-UI
-Assignment #3 - Task #2 AND Assignment #4 Tasks
-
-## Task Output Screenshots:
+## Walmart UI
 
 ### Output of Assignment # 3 (Task #2) & Assignment # 4 (Task #1)
 ![WhatsApp Image 2023-11-08 at 1 59 02 AM](https://github.com/BhagiaSheri/Walmart-UI/assets/38161609/e3b4a726-921d-4074-8ed0-510f22a22c8b)
@@ -9,8 +6,10 @@ Assignment #3 - Task #2 AND Assignment #4 Tasks
 ### Output Screenshots of Assignment # 4
 
 #### -> Login using Below Credentials:
-Username: bhagia.sherigmail.com
-Password: bhagia123
+
+- Username: bhagia.sherigmail.com
+- Password: bhagia123
+  
 ![WhatsApp Image 2023-11-08 at 1 59 02 AM (1)](https://github.com/BhagiaSheri/Walmart-UI/assets/38161609/f4cbc92b-1264-4ce2-8246-ea8aaadd1c25)
 
 #### -> After Successful Login:
